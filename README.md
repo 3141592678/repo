@@ -1,3 +1,1 @@
 # repo
-
-Hello world.
